@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center"><img src="https://s.gravatar.com/avatar/92b6ecfcf2697dc8fac8f4d564a7471f?s=80" border="1"/></p>
 
-<!--
-**eddyvlad/eddyvlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Eddy Hidayat**.
 
-Here are some ideas to get you started:
+I'm an Engineering Lead / Tech Lead for [Creadits](https://github.com/refuel4).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been a full-stack engineer since 1999. 
+
+I started out as a freelance web developer during the early years of websites. Now I specialized in web applications. 
+
+# Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=eddyvlad&theme=violet-punch&background=000000)](https://git.io/streak-stats)
+
