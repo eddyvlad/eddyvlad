@@ -1,14 +1,17 @@
-<p align="center"><img src="https://s.gravatar.com/avatar/92b6ecfcf2697dc8fac8f4d564a7471f?s=80" border="1"/></p>
+<p align="center">
+  <img src="https://www.gravatar.com/avatar/5e4e7dde9774722ae87ace7fac0e594d?s=200" border="1"/>
+</p>
 
-I am **Eddy Hidayat**.
+# Hello, I'm Eddy Hidayat! 👋
 
-I'm an Engineering Lead / Tech Lead for [Creadits](https://github.com/refuel4).
+I serve as an Engineering Manager at [Creadits](https://github.com/refuel4), where I lead a team of talented engineers to build innovative solutions.
 
-I've been a full-stack engineer since 1999. 
+With a career spanning over two decades, I've been immersed in the world of full-stack development since 1999. My journey began as a freelance web developer during the nascent stages of the internet, and I've since specialized in crafting robust web applications.
 
-I started out as a freelance web developer during the early years of websites. Now I specialized in web applications. 
+## My GitHub Stats 📈
 
-# Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eddyvlad&theme=violet-punch&background=000000" alt="Eddy's GitHub Streak Stats">
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eddyvlad&theme=violet-punch&background=000000)](https://git.io/streak-stats)
-
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or need any assistance. Happy coding! 🚀
