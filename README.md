@@ -4,7 +4,7 @@
 
 # Hello, I'm Eddy Hidayat! 👋
 
-I serve as an Engineering Manager at [Creadits](https://github.com/refuel4), where I lead a team of talented engineers to build innovative solutions.
+I served as an Engineering Manager at [Creadits](https://github.com/refuel4), where I lead a team of talented engineers to build innovative solutions.
 
 With a career spanning over two decades, I've been immersed in the world of full-stack development since 1999. My journey began as a freelance web developer during the nascent stages of the internet, and I've since specialized in crafting robust web applications.
 
