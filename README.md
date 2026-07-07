@@ -39,8 +39,6 @@ Good systems should be useful, maintainable, observable, and grounded in real op
 
 ## My GitHub Stats 📈
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eddyvlad&theme=violet-punch&background=000000" alt="Eddy's GitHub Streak Stats">
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=eddyvlad&theme=blood-dark&border_radius=4&date_format=j%20M%5B%20Y%5D)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or need any assistance. Happy coding! 🚀
