@@ -21,6 +21,7 @@ My current focus is practical AI adoption: AI-enabled workflows, agentic systems
 
 ## Selected work
 
+* [VerbaDock](https://eddyvlad.github.io/verbadock/) - an open-source, local-first macOS app for batch transcription, speaker labelling, transcript correction, and subtitle export.
 * [ChatStencil](https://chatstencil.com) - a browser-based tool for creating WhatsApp and Telegram-style chat workflow mockups for proposals, demos, and documentation.
 * [Syntech Consulting](https://syntech.consulting) - consulting work around workflow automation, AI-ready architectures, and digital transformation.
 * [Syntech Quote Agent](https://syntech.consulting/quote) - a structured intake and quote workflow for business scoping.
